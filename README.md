@@ -1,8 +1,8 @@
 # Survivor
 
-#### Computer Graphics Course Project, a game developed by Unity.
+#### Computer Graphics Course Project, a game developed using Unity.
 
-This game has been developed by Unity using:
+This game has been developed using:
 * Cinemachine to apply a 3rd person perspective
 * Unity Animation to animate and record the camera movement for the intro and ending scenes
 * Player input, Animator, and Scripts to control the main character (hero) movement and actions
